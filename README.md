@@ -1,5 +1,3 @@
-Here’s a summary of your project in bullet points:
-
 - **Project Name:** Prediction of Calories Burned
 - **Algorithm Used:** XGBoost Regressor
 - **Data:** Combined two datasets (exercise and calories)
